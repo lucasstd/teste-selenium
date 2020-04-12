@@ -1,0 +1,3 @@
+objectRepository\SimulatorTesting\BasePageObject.class
+resources\UrlVariables.class
+objectRepository\SimulatorTesting\PageObjects.class
