@@ -14,7 +14,8 @@ def config():
     """
     return {
         "BASE_URL": os.environ.get("BASE_URL"),  # URL base para teste do Sicredi
-        "API_URL": os.environ.get("API_URL")  # API_URL para testes na API
+        "API_URL": os.environ.get("API_URL"),  # API_URL para testes na API
+        "TIMEOUT": os.environ.get("TIMEOUT")  # Timeout para as requisições 
     }
     
 # Isso é como um Export default do Javascript
