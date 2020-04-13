@@ -1,5 +1,6 @@
 # Compiled Python Bytecode
 *.py[cod]
+.pytest_cache
 
 # Packages
 *.egg
